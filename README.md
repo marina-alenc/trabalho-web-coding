@@ -25,21 +25,21 @@ index.html   html/   css/style.css   images/    js/agendamentos     capturas/
 
 ### Desktop (1440px)
 
-![Versão desktop - home](capturas/captura1.jpg)
+![Versão desktop - home](flispet/capturas/captura1.jpg)
 
-![Versão desktop - página de agendamento](capturas/captura2.jpg)
+![Versão desktop - página de agendamento](felispet/capturas/captura2.jpg)
 
 ### Tablet (768px)
 
-![Versão tablet - home](capturas/captura3.jpg)
+![Versão tablet - home](felispet/capturas/captura3.jpg)
 
-![Versão tablet - página de agendamento](capturas/captura4.jpg)
+![Versão tablet - página de agendamento](felispet/capturas/captura4.jpg)
 
 ### Smartphone (375px)
 
-![Versão smartphone - home](capturas/captura5.jpg)
+![Versão smartphone - home](felispet/capturas/captura5.jpg)
 
-![Versão smartphone - página de agendamento](capturas/captura6.jpg)
+![Versão smartphone - página de agendamento](felispet/capturas/captura6.jpg)
 
 ## Contato fictício
 (86) 80028922 - contato@felispet.com.br
