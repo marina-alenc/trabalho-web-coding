@@ -439,3 +439,18 @@ a{
 }
 
 }
+
+
+/* Mensagem de retorno dos formulários */
+.formulario__mensagem{
+    margin:0;
+    font-weight:700
+}
+
+.formulario__mensagem--sucesso{
+    color:#1b7a3d
+}
+
+.formulario__mensagem--erro{
+    color:#b3261e
+}
