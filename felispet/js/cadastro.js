@@ -12,7 +12,6 @@ form.addEventListener('submit', async (e) => {
   const botao = form.querySelector('button[type="submit"]');
   const f = new FormData(form);
 
-  // os nomes das colunas no banco usam "_" em vez de "-"
   const registro = {
     nome_pet: f.get('nome-pet'),
     especie: f.get('especie'),

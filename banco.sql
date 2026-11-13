@@ -1,5 +1,3 @@
--- Rode no Supabase: SQL Editor -> New query -> Run
-
 create table if not exists pets (
   id bigint generated always as identity primary key,
   criado_em timestamptz default now(),
