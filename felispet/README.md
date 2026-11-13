@@ -35,7 +35,7 @@ index.html   html/   css/style.css   images/
 
 ![Versão tablet - página de agendamento](capturas/captura4.jpg)
 
-### Smartphone (480px)
+### Smartphone (360px)
 
 ![Versão smartphone - home](capturas/captura5.jpg)
 
