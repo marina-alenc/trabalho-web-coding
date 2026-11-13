@@ -7,7 +7,7 @@ Site responsivo de um petshop (HTML5 + CSS3) – Trabalho Final de Web Coding.
 
 ## Estrutura
 ```
-index.html   html/   css/style.css   images/    js/agendamentos     capturas/
+felispet/ index.html   html/   css/style.css   images/    js/     capturas/
 ```
 
 ## Onde foi aplicado
@@ -25,21 +25,21 @@ index.html   html/   css/style.css   images/    js/agendamentos     capturas/
 
 ### Desktop (1440px)
 
-![Versão desktop - home](capturas/captura1.jpg)
+![Versão desktop - home](felispet/capturas/captura1.jpg)
 
-![Versão desktop - página de agendamento](capturas/captura2.jpg)
+![Versão desktop - página de agendamento](felispet/capturas/captura2.jpg)
 
 ### Tablet (768px)
 
-![Versão tablet - home](capturas/captura3.jpg)
+![Versão tablet - home](felispet/capturas/captura3.jpg)
 
-![Versão tablet - página de agendamento](capturas/captura4.jpg)
+![Versão tablet - página de agendamento](felispet/capturas/captura4.jpg)
 
 ### Smartphone (375px)
 
-![Versão smartphone - home](capturas/captura5.jpg)
+![Versão smartphone - home](felispet/capturas/captura5.jpg)
 
-![Versão smartphone - página de agendamento](capturas/captura6.jpg)
+![Versão smartphone - página de agendamento](felispet/capturas/captura6.jpg)
 
 ## Contato fictício
 (86) 80028922 - contato@felispet.com.br
@@ -47,4 +47,8 @@ index.html   html/   css/style.css   images/    js/agendamentos     capturas/
 
 ## Desafio escolhido: Ponto extra 
 
-Conexão com banco de dados na aba de agendamentos: https://supabase.com/dashboard/project/mshdvgvmtyyhxqlienbo/editor/17644?schema=public
+## Ponto extra: conexão com banco de dados
+
+Os formulários de **Agendamento** (`js/agendamento.js`) e **Cadastro de pet** (`js/cadastro.js`)
+gravam no **Supabase** (PostgreSQL) via `supabase-js`. Tabelas `agendamentos` e `pets`,
+criadas pelo arquivo `banco.sql`, com RLS permitindo apenas inserção pelo site.
