@@ -25,7 +25,7 @@ index.html   html/   css/style.css   images/    js/agendamentos     capturas/
 
 ### Desktop (1440px)
 
-![Versão desktop - home](flispet/capturas/captura1.jpg)
+![Versão desktop - home](felispet/capturas/captura1.jpg)
 
 ![Versão desktop - página de agendamento](felispet/capturas/captura2.jpg)
 
