@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Agendamento | Felis Pet</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+<header class="cabecalho">
+<a class="cabecalho__marca" href="../index.html">
+    <img class="cabecalho__logo" src="../images/logo.svg" alt="">Felis Pet</a>
+<nav class="menu" aria-label="Menu principal">
+    <ul class="menu__lista">
+        <li><a class="menu__link" href="../index.html">Início</a></li>
+        <li><a class="menu__link" href="servicos.html">Serviços</a></li>
+        <li><a class="menu__link" href="cadastro-pet.html">Cadastro de pet</a></li>
+        <li><a class="menu__link menu__link--ativo" href="agendamento.html" aria-current="page">Agendamento</a></li>
+        <li><a class="menu__link" href="veterinario.html">Veterinário</a></li></ul></nav>
+</header>
+
+<main class="principal">
+    <section class="secao">
+        <h1 class="secao__titulo">Agendamento de serviços</h1>
+        <p class="secao__intro">Escolha o serviço e o melhor horário. Confirmaremos por telefone ou e-mail.</p>
+<form class="formulario" action="#" method="post">
+<div class="formulario__linha">
+    <label class="formulario__campo">Nome do tutor<input class="formulario__entrada" id="tutor" name="tutor" type="text" placeholder="" required></label>
+    <label class="formulario__campo">Nome do pet<input class="formulario__entrada" id="pet" name="pet" type="text" placeholder="" required></label>
+</div>
+
+<div class="formulario__linha">
+    <label class="formulario__campo">Serviço<select class="formulario__entrada" id="servico" name="servico" required>
+        <option value="">Selecione</option>
+        <option>Banho completo</option>
+        <option>Banho para gatos</option>
+        <option>Tosa higiênica</option>
+        <option>Tosa completa</option>
+        <option>Hidratação de pelos</option>
+        <option>Corte de unhas</option>
+        <option>Consulta veterinária</option>
+        <option>Vacinação</option>
+    </select>
+</label>
+<label class="formulario__campo">Telefone<input class="formulario__entrada" id="telefone" name="telefone" type="tel" placeholder="(86) 90000-0000" required></label>
+</div>
+
+<div class="formulario__linha">
+    <label class="formulario__campo">Data<input class="formulario__entrada" id="data" name="data" type="date" placeholder="" required></label>
+    <label class="formulario__campo">Horário<select class="formulario__entrada" id="horario" name="horario" required>
+        <option value="">Selecione</option>
+        <option>08:00</option>
+        <option>09:30</option>
+        <option>11:00</option>
+        <option>14:00</option>
+        <option>15:30</option>
+        <option>17:00</option>
+    </select>
+</label>
+</div>
+
+<label class="formulario__campo">Observações<textarea class="formulario__entrada" name="obs" rows="3"></textarea></label>
+<button class="botao" type="submit">Confirmar agendamento</button></form>
+</section>
+</main>
+
+<footer class="rodape">
+<section><h2 class="rodape__titulo">Felis Pet</h2>
+    <p>Banho, tosa e cuidado veterinário.</p><p>Rua dos gatinhos, 123 – Teresina/PI</p></section>
+<section>
+     <h2 class="rodape__titulo">Contato</h2>
+    <p>Telefone: <a class="rodape__link" href="tel:+558680028922">(86) 80028922</a></p>
+    <p>E-mail: <a class="rodape__link" href="mailto:contato@felispet.com.br">contato@felispet.com.br</a></p>
+    </section>
+<section><h2 class="rodape__titulo">Horário</h2>
+    <p>Seg a sex: 8h às 18h</p><p>Sábado: 8h às 13h</p></section>
+</footer>
+</body>
+</html>
