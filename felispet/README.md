@@ -23,7 +23,7 @@ index.html   html/   css/style.css   images/    js/agendamentos     capturas/
 
 ## Capturas de tela
 
-### Desktop
+### Desktop (1440px)
 
 ![Versão desktop - home](capturas/captura1.jpg)
 
@@ -35,7 +35,7 @@ index.html   html/   css/style.css   images/    js/agendamentos     capturas/
 
 ![Versão tablet - página de agendamento](capturas/captura4.jpg)
 
-### Smartphone (360px)
+### Smartphone (375px)
 
 ![Versão smartphone - home](capturas/captura5.jpg)
 
