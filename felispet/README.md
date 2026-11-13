@@ -23,8 +23,6 @@ index.html   html/   css/style.css   images/
 
 ## Capturas de tela
 
-## Capturas de tela
-
 ### Desktop
 
 ![Versão desktop - home](capturas/captura1.jpg)
