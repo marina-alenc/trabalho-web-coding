@@ -2,12 +2,12 @@
 
 Site responsivo de um petshop (HTML5 + CSS3) – Trabalho Final de Web Coding.
 
-## Páginas
+## Páginas HTML
 `index.html` · `html/servicos.html` · `html/cadastro-pet.html` · `html/agendamento.html` · `html/veterinario.html`
 
 ## Estrutura
 ```
-index.html   html/   css/style.css   images/
+index.html   html/   css/style.css   images/    js/agendamentos     capturas
 ```
 
 ## Onde foi aplicado
@@ -43,3 +43,8 @@ index.html   html/   css/style.css   images/
 
 ## Contato fictício
 (86) 80028922 - contato@felispet.com.br
+
+
+## Desafio escolhido: Ponto extra 
+
+Conexão com banco de dados na aba de agendamentos: https://supabase.com/dashboard/project/mshdvgvmtyyhxqlienbo/editor/17644?schema=public
