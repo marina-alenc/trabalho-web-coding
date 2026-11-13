@@ -44,9 +44,6 @@ felispet/ index.html   html/   css/style.css   images/    js/     capturas/
 ## Contato fictício
 (86) 80028922 - contato@felispet.com.br
 
-
-## Desafio escolhido: Ponto extra 
-
 ## Ponto extra: conexão com banco de dados
 
 Os formulários de **Agendamento** (`js/agendamento.js`) e **Cadastro de pet** (`js/cadastro.js`)
