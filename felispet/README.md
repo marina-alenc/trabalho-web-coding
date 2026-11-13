@@ -23,6 +23,14 @@ index.html   html/   css/style.css   images/
 
 ## Capturas de tela
 
+    ### Desktop
+![Versão desktop](capturas/captura1.jpg) (capturas/captura2.jpg)
+
+### Tablet (768px)
+![Versão tablet](capturas/captura 3.jpg) (capturas/captura 4.jpg)
+
+### Smartphone (480px)
+![Versão smartphone](capturas/captura 5.jpg) (capturas/captura 6.jpg)
 
 ## Contato fictício
 (86) 80028922 - contato@felispet.com.br
