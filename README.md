@@ -1,4 +1,4 @@
-# Felis Pet– Banho e Tosa
+# Felis Pet – Banho e Tosa
 
 Site responsivo de um petshop (HTML5 + CSS3) – Trabalho Final de Web Coding.
 
