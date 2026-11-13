@@ -7,7 +7,7 @@ Site responsivo de um petshop (HTML5 + CSS3) – Trabalho Final de Web Coding.
 
 ## Estrutura
 ```
-index.html   html/   css/style.css   images/    js/agendamentos     capturas
+index.html   html/   css/style.css   images/    js/agendamentos     capturas/
 ```
 
 ## Onde foi aplicado
